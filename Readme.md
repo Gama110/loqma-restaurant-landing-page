@@ -4,7 +4,7 @@ A technical repository containing the source code for a responsive front-end lan
 
 ## Live Demo
 
-- URL: [https://gama110.github.io/loqma-restaurant-landing-page/](https://github.io)
+- Live Demo: [View Live Site](https://gama110.github.io/loqma-restaurant-landing-page/)
 
 ---
 
